@@ -1,19 +1,27 @@
-# 🧠 Street Fighter Data Insights (Power BI Dashboard)
+<h1 align="center">🎮 Street Fighter Power BI Dashboard</h1>
 
-This Power BI project analyzes data related to the **Street Fighter** universe. It explores characters, match outcomes, and player statistics in an interactive visual format.
+<p align="center">
+  📊 An interactive Power BI project visualizing characters, battles, and trends from the iconic Street Fighter universe.
+</p>
 
-## 📊 Project Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi" alt="Power BI">
+  <img src="https://img.shields.io/github/license/yourusername/street-fighter-powerbi?style=for-the-badge" alt="License">
+</p>
 
-- **Tool Used**: Power BI Desktop
-- **File**: `StreetFighther.pbix`
-- **Topics Covered**:
-  - Character win/loss analysis
-  - Player performance breakdown
-  - Visuals like bar charts, pie charts, and KPI cards
+---
 
-## 🔧 How to Use
+## 📌 Overview
 
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/street-fighter-powerbi.git
+The **Street Fighter Power BI Dashboard** brings fighting game data to life with rich visuals and data storytelling. Dive deep into:
+
+- 🔥 **Character performance & win rates**
+- 🥊 **Match outcomes & player analysis**
+- 📈 **Visual trends, charts & KPIs**
+
+> This project is great for gaming analysts, Power BI enthusiasts, and fans of data storytelling using pop culture.
+
+---
+
+## 📁 File Structure
+
