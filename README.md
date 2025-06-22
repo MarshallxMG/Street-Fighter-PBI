@@ -1,27 +1,43 @@
 <h1 align="center">🎮 Street Fighter Power BI Dashboard</h1>
 
 <p align="center">
-  📊 An interactive Power BI project visualizing characters, battles, and trends from the iconic Street Fighter universe.
+  A data visualization project built in Power BI to analyze characters, match stats, and patterns from the legendary <strong>Street Fighter</strong> series.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi" alt="Power BI">
-  <img src="https://img.shields.io/github/license/yourusername/street-fighter-powerbi?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Made%20With-Power%20BI-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/github/license/yourusername/street-fighter-powerbi?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Overview
+## 📊 About the Project
 
-The **Street Fighter Power BI Dashboard** brings fighting game data to life with rich visuals and data storytelling. Dive deep into:
+This Power BI dashboard project showcases an analytical perspective of the **Street Fighter** universe. Designed for gamers, data enthusiasts, and analysts alike, the project offers insights into:
 
-- 🔥 **Character performance & win rates**
-- 🥊 **Match outcomes & player analysis**
-- 📈 **Visual trends, charts & KPIs**
-
-> This project is great for gaming analysts, Power BI enthusiasts, and fans of data storytelling using pop culture.
+- 🎭 Character performance and popularity
+- 🥇 Win/loss statistics and victory breakdowns
+- 📊 Comparative analysis across multiple fighters
+- 🧩 Interactive filtering and insights by fighter, stage, or player
 
 ---
 
-## 📁 File Structure
+## 🖼️ Dashboard Preview
 
+> *(Add an actual screenshot in your GitHub repo for a visual preview)*
+
+<p align="center">
+  <img src="dashboard-preview.png" alt="Street Fighter Power BI Dashboard Preview" width="800"/>
+</p>
+
+---
+
+## 📂 File Structure
+
+```bash
+📁 Street-Fighter-PowerBI/
+├── StreetFighther.pbix         # Main Power BI dashboard file
+├── README.md                   # Project documentation
+├── .gitignore                  # Git ignored files
+└── dashboard-preview.png       # (Optional) Screenshot of the dashboard
