@@ -28,7 +28,7 @@ This Power BI dashboard project showcases an analytical perspective of the **Str
 > *(Add an actual screenshot in your GitHub repo for a visual preview)*
 
 <p align="center">
-![Image alt](https://github.com/MarshallxMG/Street-Fighter-PBI/blob/86a14dbe70134cf8eb748b30d686af20921a5319/street%20fighter%20dashboard.png)
+![image alt](https://github.com/MarshallxMG/Street-Fighter-PBI/blob/86a14dbe70134cf8eb748b30d686af20921a5319/street%20fighter%20dashboard.png)
 </p>
 
 ---
