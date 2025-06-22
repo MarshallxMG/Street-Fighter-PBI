@@ -27,11 +27,11 @@ This Power BI dashboard project showcases an analytical perspective of the **Str
 
 ![image alt](https://github.com/MarshallxMG/Street-Fighter-PBI/blob/86a14dbe70134cf8eb748b30d686af20921a5319/street%20fighter%20dashboard.png)
 
-## 📂 File Structure
+🌟 Show Your Support
+If you like this project:
 
-```bash
-📁 Street-Fighter-PowerBI/
-├── StreetFighther.pbix         # Main Power BI dashboard file
-├── README.md                   # Project documentation
-├── .gitignore                  # Git ignored files
-└── dashboard-preview.png       # (Optional) Screenshot of the dashboard
+🌟 Star this repository
+
+🧠 Share with other data enthusiasts
+
+🍴 Fork and build your own dashboards!
