@@ -23,15 +23,6 @@ This Power BI dashboard project showcases an analytical perspective of the **Str
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> *(Add an actual screenshot in your GitHub repo for a visual preview)*
-
-<p align="center">
-  <img src="dashboard-preview.png" alt="Street Fighter Power BI Dashboard Preview" width="800"/>
-</p>
-
----
 
 ## 📂 File Structure
 
